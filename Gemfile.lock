@@ -173,7 +173,7 @@ DEPENDENCIES
   figaro
   gibbon
   google_drive
-  high_voltage
+  high_voltage (~> 2.1.0)
   jbuilder (~> 2.0)
   jquery-rails
   quiet_assets
